@@ -1,5 +1,7 @@
 # matlabVehicularComputingoffloading
 ## Augmenting Vehicular Edge and Fog enabled Computation offloading framework using temporal segmentation and heuritic method
+#### Video Presentation/tutorial of the technique is in the following link:
+https://docs.google.com/presentation/d/1_R8GMnxlyoFPE8AjzdBmQN7Gpvt8v8T_/edit?usp=sharing&ouid=117373373042784703954&rtpof=true&sd=true
 ## DESCRIPTION AND CONTENTS OF THE MATLAB CODE
 ### Purpose of MATLAB Code:
 This MATLAB code quantitively analyses our proposed computation offloading framework. We used Key Performance Indicator (KPIs) and reference methods to evaluate our approach.
